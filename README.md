@@ -1,3 +1,15 @@
+<h3>С чем работал</h3>
+
+
+<ol>
+<li>представление Button</li>
+<li>setAlarm = findViewById(R.id.alarm_button) поиск представления по id</li>
+<li>setAlarm.setOnClickListener слушатель элемента по клику</li>
+
+
+</ol>
+
+
 <h3>Ошибки</h3>
 
 <ol>
